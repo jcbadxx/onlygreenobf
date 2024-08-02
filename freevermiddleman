@@ -1,5 +1,3 @@
 if game.GameId == 4348829796 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/jcbadxx/onlygreenobf/main/feevermsvd"))()
-elseif game.GameId == 2343912333 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/jcbadxx/onlygreenobf/main/freever"))()
 end
